@@ -21,7 +21,7 @@ Cada exercício representa um passo no aprendizado — desde cálculos simples a
 
 ## 📚 Exemplos de exercícios
 
-- [`Exercicio_01.java`](Exercicio_01.java): Impressão dos cubos dos números de 30 a 200
+- [`Exercicio_01.java`](Exercícios/Exercício_01.java): Impressão dos cubos dos números de 30 a 200
 - `Exercicio_02.java`: Soma dos números ímpares e multiplicação dos pares entre 0 e 20
 - `Exercicio_03.java`: Cálculo do salário com base nas horas trabalhadas
 - `Exercicio_04.java`: Cálculo da média de um aluno e verificação da situação (aprovado, recuperação, reprovado)
