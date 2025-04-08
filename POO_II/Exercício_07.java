@@ -1,4 +1,4 @@
-public class Exercício_03
+public class Exercício_07
 {
     public static void main(String[] args){
         double media1 = (4 + 9 + 7) / 3.0;
