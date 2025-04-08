@@ -12,7 +12,7 @@ public class Exercício_03
 
         double salario = horastrabalhadas * valorHora;
 
-        System.out.println("O salário a receber é: R$"+ salario);
+        System.out.println("O salário a receber é: R$"+ salario+" para "+ horastrabalhadas+" horas trabalhadas");
 
         scanner.close();
     }
