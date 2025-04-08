@@ -1,4 +1,4 @@
-# 🚀 Exercícios em Java – Curso de Ciência da Computação
+# 🚀 Exercícios em Java – Programação Orientada a Objetos
 
 Este repositório contém uma coleção de exercícios em **Java** desenvolvidos ao longo da minha jornada no curso de **Ciência da Computação**. Cada programa tem como objetivo reforçar os fundamentos da programação orientada a objetos, lógica de programação e o uso da linguagem Java como ferramenta principal.
 
