@@ -24,9 +24,17 @@ Cada exercício representa um passo no aprendizado — desde cálculos simples a
 
 ### 📜Unidade POO - I
 
-- [Exercicio_01](Exercícios/Exercício_01.java): Impressão dos cubos dos números de 30 a 200
-- [Exercicio_02](Exercícios/Exercício_02.java): Soma dos números ímpares e multiplicação dos pares entre 0 e 20
-- [Exercicio_03](Exercícios/Exercício_03.java): Cálculo do salário com base nas horas trabalhadas
-- [Exercicio_04](Exercícios/Exercício_04.java): Cálculo da média de um aluno e verificação da situação (aprovado, recuperação, reprovado)
+- [Exercicio_01](POO_I/Exercício_01.java): Impressão dos cubos dos números de 30 a 200
+- [Exercicio_02](POO_I/Exercício_02.java): Soma dos números ímpares e multiplicação dos pares entre 0 e 20
+- [Exercicio_03](POO_I/Exercício_03.java): Cálculo do salário com base nas horas trabalhadas
+- [Exercicio_04](POO_I/Exercício_04.java): Cálculo da média de um aluno e verificação da situação (aprovado, recuperação, reprovado)
+
+### 📜Unidade POO - II
+
+- [Exercício_05](POO_II/Exercício_05.java): Conversão de temperatura de Celsius para Fahrenheit e Kelvin  
+- [Exercicio_06](POO_II/Exercício_06.java): Cálculo da idade total em dias a partir de anos, meses e dias  
+- [Exercicio_07](POO_II/Exercício_07.java): Cálculo da média de grupos de números e média entre médias  
+- [Exercicio_08](POO_II/Exercício_08.java): Leitura de um número inteiro e exibição do seu antecessor e sucessor
 
 ---
+
