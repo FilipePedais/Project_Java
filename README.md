@@ -21,6 +21,9 @@ Cada exercício representa um passo no aprendizado — desde cálculos simples a
 
 ## 📚 Exemplos de exercícios
 
+
+### 📜Unidade POO - I
+
 - [Exercicio_01](Exercícios/Exercício_01.java): Impressão dos cubos dos números de 30 a 200
 - [Exercicio_02](Exercícios/Exercício_02.java): Soma dos números ímpares e multiplicação dos pares entre 0 e 20
 - [Exercicio_03](Exercícios/Exercício_03.java): Cálculo do salário com base nas horas trabalhadas
